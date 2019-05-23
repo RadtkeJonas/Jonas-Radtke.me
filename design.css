@@ -1,0 +1,16 @@
+body {
+    background-color: dimgray;
+    font-family: "Arial Narrow";
+    font-size: medium;
+    color: ghostwhite;
+}
+
+body :hover{
+    background-color: chartreuse;
+}
+
+header {
+    color: aliceblue;
+    font-family: "Arial Black";
+    font-size: large;
+}
